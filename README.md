@@ -1,8 +1,10 @@
 # AI-Image-detection
 Ini adalah sebuah AI untuk mendeteksi sebuah objek dari gambar
 
-Anda dapat menjalankan AI ini dari google collab ataupun Jupyter.
+Langkah-langkah untuk menggunakan AI image detection
 
-Anda perlu mengupload file yolo-tiny.h5 dan gambar yang ingin ada deteksi sebagai objeknya.
+1. Anda dapat menjalankan AI ini dari google collab ataupun Jupyter.
 
-kemudian anda harus mengganti sebuah patch file imagenya di program sesuai dengan nama patch file gambar anda
+2. Anda perlu mengupload file yolo-tiny.h5 dan gambar yang ingin ada deteksi sebagai objeknya.
+
+3. kemudian anda harus mengganti sebuah patch file imagenya di program sesuai dengan nama patch file gambar anda
